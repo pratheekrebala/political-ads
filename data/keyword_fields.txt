@@ -95,6 +95,8 @@ Assistant
 Total Ratings
 Rep Commission
 Agency Commission
+Agency Code
+Advertiser Ref
 Seperation
 Seperation between spots
 Gross Total
@@ -118,6 +120,8 @@ Order / Rev
 Net Tota
 Net Total
 Grand Total
+Total
+Totals
 CPE
 Station
 Billina Cvcle
