@@ -62,6 +62,11 @@ Inv Dates
 Billing Calendar
 Property Account Executive
 Account Executive
+Account Exec
+Contract Num
+Contract Dates
+Invoice Num
+Invoice Date
 Special Handling
 Headline #
 Brand
